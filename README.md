@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @16nikhil
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to learn more and contribute to open source
